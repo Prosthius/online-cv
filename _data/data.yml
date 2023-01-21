@@ -3,20 +3,21 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Anh Nguyen
-    tagline: Vocational Education Trainer | Lead Educator
-    avatar: knockout.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Callum Hopkins
+    tagline: Web Developer
+    # avatar: knockout.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: a.nguyen@kangan.edu.au
+    website: href="https://callumhopkins.au" target="_blank">callumhopkins.au</a>
+    email: callum.hopkins@pm.me
     timezone: AEDT / Australian Eastern Daylight Savings
     citizenship: Australian citizen
-    linkedin: anh-nguyen-99b82baa
-    github: a-nguyen-kangan
+    linkedin: callum-hopkins-au
+    github: Prosthius
 
     languages:
       title: Languages
@@ -24,103 +25,79 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: Vietnamese
-          level: Basic
-
     interests:
       title: Interests
       info:
-        - item: Judo
+        - item: Cycling
           link:
 
-        - item: MMA
-          link:
-
-        - item: Tennis
+        - item: Home Lab
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Experienced Vocational Education Trainer and course Co-ordinator
-      Experienced corporate trainer
-      Experienced Application Developer
+      Student Web Developer
 
 education:
     title: Education
     info:
-      - degree: Bachelor of Computer Science
-        university: RMIT University
-        time: 1999 - 2002
-        details: |
-          Majors
-            - AI
-            - Cryptography
-      - degree: Diploma in Vocational Education Training
-        university: Northern Melbourne Institute of TAFE
-        time: 2009
-      - degree: CIV in Training and Assessment
-        university: Swinburne University
-        time: 2012
+      - degree: CIV in Information Technology (Programming)
+        university: Swinburne University of Technology
+        time: 2022
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Educator
-        time: 20122 - Present
-        company: Bendigo Kangan Institute
-        details: |
-          Cremorne, Victoria, Australia
-      - role: Vocational Education Trainer, Assessor and Co-ordinator
-        time: 2011 - 2022
-        company: Swinburne University
-        details: |
-          Courses areas created and involved:
-            - CIV and Diploma in Software Development (created)
-            - Cyber Security (taught and developed)
-            - Games Development (taught and developed)
-            - Networking (taught)
-      - role: Training Analyst
-        time: 2014
-        company: Toxfree Solutions
-        details: |
-          ERP - Standardisation
-          Mulgrave, Victoria, Australia
+      # - role: Vocational Education Trainer, Assessor and Co-ordinator
+      #   time: 2011 - 2022
+      #   company: Swinburne University
+      #   details: |
+      #     Courses areas created and involved:
+      #       - CIV and Diploma in Software Development (created)
+      #       - Cyber Security (taught and developed)
+      #       - Games Development (taught and developed)
+      #       - Networking (taught)
+
 projects:
     title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: PhoneBook
-        link: "#hook"
-        tagline: "A responsive website template designed to keep a basic list of contacts."
-
       - title: Train Kiosk
-        link: "#"
-        tagline: "A responsive website template designed to list trains departures from Richmond stations."
+        link: "https://github.com/a-nguyen-kangan/DTP-Train-Kiosk-FE"
+        tagline: "A responsive website template designed to list trains departures from Richmond station."
+
+      - title: THome Lab
+        # link: "#"
+        tagline: "I have turned two old laptops into a home lab running various services and technologies."
+        details:
+          - Ubuntu Server 20.04
+          - Docker Containers
+          - Apache Web Server
+          - VPN access to home network
+          - Pi-hole
+          - Unbound DNS (Recursive DNS)
+          - Nextcloud
+          # - Jellyfin Media Server
+          - Minecraft Server (through <a href="https://pterodactyl.io" target="_blank">Pterodactyl)</a>
+          - Netdata
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: C# (ASP.NET)
-        level: 80%
+        level: 75%
 
-      - name: Javascript
+      - name: Javascript & Typescript
         level: 80%
 
       - name: Angular
-        level: 90%
+        level: 70%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: React
-        level: 70%
-
-      - name: Adult Education
+      - name: Git
         level: 95%
 
 footer: >
