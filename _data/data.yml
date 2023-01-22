@@ -9,11 +9,11 @@ sidebar:
     # Profile information
     name: Callum Hopkins
     tagline: Web Developer
-    # avatar: knockout.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: # knockout.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     website: https://callumhopkins.au
-    email: callum.hopkins@pm.me
+    email: mail@callumhopkins.au
     timezone: AEDT / Australian Eastern Daylight Savings
     citizenship: Australian citizen
     linkedin: callum-hopkins-au
