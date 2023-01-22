@@ -59,6 +59,19 @@ experiences:
       #       - Games Development (taught and developed)
       #       - Networking (taught)
 
+      - title: Home Lab
+        info:
+          - Ubuntu Server 20.04
+          - Docker Containers
+          - Apache Web Server
+          - VPN access to home network
+          - Pi-hole
+          - Unbound DNS (Recursive DNS)
+          - Nextcloud
+          # - Jellyfin Media Server
+          - Minecraft Server (through <a href="https://pterodactyl.io" target="_blank">Pterodactyl)</a>
+          - Netdata
+
 projects:
     title: Projects
     assignments:
@@ -69,7 +82,7 @@ projects:
       - title: Home Lab
         # link: "#"
         tagline: "I have turned two old laptops into a home lab running various services and technologies."
-        details:
+        info:
           - Ubuntu Server 20.04
           - Docker Containers
           - Apache Web Server
