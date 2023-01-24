@@ -28,7 +28,7 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Cycling
+        - item: Road Cycling
           link:
 
         - item: Home Lab
@@ -49,28 +49,13 @@ education:
 experiences:
     title: Experiences
     info:
-      # - role: Vocational Education Trainer, Assessor and Co-ordinator
-      #   time: 2011 - 2022
-      #   company: Swinburne University
-      #   details: |
-      #     Courses areas created and involved:
-      #       - CIV and Diploma in Software Development (created)
-      #       - Cyber Security (taught and developed)
-      #       - Games Development (taught and developed)
-      #       - Networking (taught)
-
-      - title: Home Lab
-        info:
-          - Ubuntu Server 20.04
-          - Docker Containers
-          - Apache Web Server
-          - VPN access to home network
-          - Pi-hole
-          - Unbound DNS (Recursive DNS)
-          - Nextcloud
-          # - Jellyfin Media Server
-          - Minecraft Server (through <a href="https://pterodactyl.io" target="_blank">Pterodactyl)</a>
-          - Netdata
+      - role: Bike Shop Mechanic/Salesperson
+        time: 2016 - 2021
+        company: Cycle Science Mitcham
+        details: |
+          - Built and repaired bikes
+          - Sold bikes and accessories
+          - Assisted customers
 
 projects:
     title: Projects
@@ -81,8 +66,7 @@ projects:
 
       - title: Home Lab
         # link: "#"
-        tagline: "I have turned two old laptops into a home lab running various services and technologies."
-        info:
+        tagline: "I have turned two old laptops into a home lab running various services and technologies including:
           - Ubuntu Server 20.04
           - Docker Containers
           - Apache Web Server
@@ -90,9 +74,9 @@ projects:
           - Pi-hole
           - Unbound DNS (Recursive DNS)
           - Nextcloud
-          # - Jellyfin Media Server
-          - Minecraft Server (through <a href="https://pterodactyl.io" target="_blank">Pterodactyl)</a>
-          - Netdata
+          - Jellyfin Media Server
+          - Minecraft Server
+          - Netdata"
 
 skills:
     title: Skills &amp; Proficiency
