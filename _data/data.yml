@@ -42,6 +42,9 @@ career-profile:
 education:
     title: Education
     info:
+      - degree: VCE
+        university: Whitefriars
+        time: 2017-2018
       - degree: CIV in Information Technology (Programming)
         university: Swinburne University of Technology
         time: 2022
@@ -66,17 +69,18 @@ projects:
 
       - title: Home Lab
         # link: "#"
-        tagline: "I have turned two old laptops into a home lab running various services and technologies including:
-          | - Ubuntu Server 20.04
-          - Docker Containers
-          - Apache Web Server
-          - VPN access to home network
-          - Pi-hole
-          - Unbound DNS (Recursive DNS)
-          - Nextcloud
-          - Jellyfin Media Server
-          - Minecraft Server
-          - Netdata"
+        tagline: |
+          "I have turned two old laptops into a home lab running various services and technologies including:
+            - Ubuntu Server 20.04
+            - Docker Containers
+            - Apache Web Server
+            - VPN access to home network
+            - Pi-hole
+            - Unbound DNS (Recursive DNS)
+            - Nextcloud
+            - Jellyfin Media Server
+            - Minecraft Server
+            - Netdata"
 
 skills:
     title: Skills &amp; Proficiency
