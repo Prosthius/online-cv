@@ -37,14 +37,13 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Student Web Developer
-    Knowledgable in Linux server applications
+    Student Web Developer, knowledgable in Linux server applications
 
 education:
   title: Education
   info:
     - degree: VCE
-      university: Whitefriars
+      university: Whitefriars College
       time: 2017-2018
     - degree: CIV in Information Technology (Programming)
       university: Swinburne University of Technology
