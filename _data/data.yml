@@ -3,103 +3,99 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Callum Hopkins
-    tagline: Web Developer
-    avatar: # knockout.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Callum Hopkins
+  tagline: Web Developer
+  avatar: # knockout.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    website: https://callumhopkins.au
-    email: mail@callumhopkins.au
-    timezone: AEDT / Australian Eastern Daylight Savings
-    citizenship: Australian citizen
-    linkedin: callum-hopkins-au
-    github: Prosthius
+  # Sidebar links
+  website: https://callumhopkins.au
+  email: mail@callumhopkins.au
+  timezone: AEDT / Australian Eastern Daylight Savings
+  citizenship: Australian citizen
+  linkedin: callum-hopkins-au
+  github: Prosthius
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
+  languages:
+    title: Languages
+    info:
+      - idiom: English
+        level: Native
 
-    interests:
-      title: Interests
-      info:
-        - item: Road Cycling
-          link:
+  interests:
+    title: Interests
+    info:
+      - item: Road Cycling
+        link:
 
-        - item: Home Lab
-          link:
+      - item: Home Lab
+        link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Student Web Developer
+  title: Career Profile
+  summary: |
+    Student Web Developer
 
 education:
-    title: Education
-    info:
-      - degree: VCE
-        university: Whitefriars
-        time: 2017-2018
-      - degree: CIV in Information Technology (Programming)
-        university: Swinburne University of Technology
-        time: 2022
+  title: Education
+  info:
+    - degree: VCE
+      university: Whitefriars
+      time: 2017-2018
+    - degree: CIV in Information Technology (Programming)
+      university: Swinburne University of Technology
+      time: 2022
 
 experiences:
-    title: Experiences
-    info:
-      - role: Bike Shop Mechanic/Salesperson
-        time: 2016 - 2021
-        company: Cycle Science Mitcham
-        details: |
-          - Built and repaired bikes
-          - Sold bikes and accessories
-          - Assisted customers
+  title: Experiences
+  info:
+    - role: Bike Shop Mechanic/Salesperson
+      time: 2016 - 2021
+      company: Cycle Science Mitcham
+      details: |
+        - Built and repaired bikes
+        - Sold bikes and accessories
+        - Assisted customers
 
 projects:
-    title: Projects
-    assignments:
-      - title: Train Kiosk
-        link: "https://github.com/a-nguyen-kangan/DTP-Train-Kiosk-FE"
-        tagline: "A responsive website template designed to list trains departures from Richmond station."
+  title: Projects
+  assignments:
+    - title: Train Kiosk
+      link: "https://github.com/a-nguyen-kangan/DTP-Train-Kiosk-FE"
+      tagline: "A responsive website template designed to list trains departures from Richmond station."
 
-      - title: Home Lab
-        # link: "#"
-        tagline: |
-          "I have turned two old laptops into a home lab running various services and technologies including:
-            \n- Ubuntu Server 20.04
-            - Docker Containers
-            - Apache Web Server
-            - VPN access to home network
-            - Pi-hole
-            - Unbound DNS (Recursive DNS)
-            - Nextcloud
-            - Jellyfin Media Server
-            - Minecraft Server
-            - Netdata"
+    - title: Home Lab
+      # link: "#"
+      tagline:
+        "I have turned two old laptops into a home lab running various services and technologies including:
+        Ubuntu Server 20.04, docker containers, Apache Web Server, VPN access to home network, Pi-hole, Unbound DNS (Recursive DNS),
+        Nextcloud"
+        # - Nextcloud
+        # - Jellyfin Media Server
+        # - Minecraft Server
+        # - Netdata"
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
-    toolset:
-      - name: C# (ASP.NET)
-        level: 75%
+  toolset:
+    - name: C# (ASP.NET)
+      level: 75%
 
-      - name: Javascript & Typescript
-        level: 80%
+    - name: Javascript & Typescript
+      level: 80%
 
-      - name: Angular
-        level: 70%
+    - name: Angular
+      level: 70%
 
-      - name: HTML5 & CSS
-        level: 95%
+    - name: HTML5 & CSS
+      level: 95%
 
-      - name: Git
-        level: 95%
+    - name: Git
+      level: 95%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
