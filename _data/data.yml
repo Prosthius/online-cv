@@ -67,7 +67,7 @@ projects:
       - title: Home Lab
         # link: "#"
         tagline: "I have turned two old laptops into a home lab running various services and technologies including:
-          - Ubuntu Server 20.04
+          | - Ubuntu Server 20.04
           - Docker Containers
           - Apache Web Server
           - VPN access to home network
