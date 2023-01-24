@@ -71,15 +71,25 @@ projects:
         # link: "#"
         tagline: |+
           I have turned two old laptops into a home lab running various services and technologies including:
+
             - Ubuntu Server 20.04
+
             - Docker Containers
+
             - Apache Web Server
+
             - VPN access to home network
+
             - Pi-hole
+
             - Unbound DNS (Recursive DNS)
+
             - Nextcloud
+
             - Jellyfin Media Server
+
             - Minecraft Server
+            
             - Netdata
 
 skills:
