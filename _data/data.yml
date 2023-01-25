@@ -80,19 +80,25 @@ skills:
 
   toolset:
     - name: C# (ASP.NET)
-      level: 75%
+      level: 65%
 
     - name: Javascript & Typescript
       level: 80%
 
     - name: Angular
-      level: 70%
+      level: 60%
 
-    - name: HTML5 & CSS
+    - name: HTML
       level: 95%
+
+    - name: CSS
+      level: 65%
 
     - name: Git
       level: 95%
+
+    - name: MSSQL
+      level: 75%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
