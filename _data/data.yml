@@ -72,8 +72,8 @@ projects:
 
     - title: Home Lab
       tagline:
-        "I have turned two old laptops into servers running various services and technologies including:
-        Ubuntu Server 20.04 and Docker."
+        "I have turned two old laptops into servers using Ubuntu Server running various services and technologies including: 
+         Docker, Nextcloud, Pihole and Unbound (recursive DNS)."
 
 skills:
   title: Skills &amp; Proficiency
