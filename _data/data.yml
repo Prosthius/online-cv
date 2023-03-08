@@ -40,7 +40,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Student Web Developer, knowledgable in Linux server applications
+    Student Web Developer, knowledgeable in Linux server applications
 
 education:
   title: Education
@@ -74,6 +74,31 @@ projects:
       tagline:
         "I have turned two old laptops into servers using Ubuntu Server running various services and technologies including: 
          Docker, Nextcloud, Pihole and Unbound (recursive DNS)."
+
+hobbies:
+  title: Hobbies
+  info:
+    - title: Cycling
+      details: |
+        - Road Cycling and Track Cycling
+        - Training 10hrs a week and regularly competing in various races
+        - 
+
+    - title: Homelab
+      tagline: 
+        "I have turned two old laptops into a home lab running various services and technologies including:"
+      details: |
+        - Ubuntu 20.04 Server
+        link: https://ubuntu.com/download/server
+        - Docker
+        - Apache Web Server
+        - Nextcloud
+        - PiHole
+        - Unbound Recursive DNS
+        - PiVPN
+        - Netdata
+        - Pterodactyl (Minecraft Server)
+        - Portainer
 
 skills:
   title: Skills &amp; Proficiency
