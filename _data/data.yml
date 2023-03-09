@@ -40,7 +40,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Student Web Developer, knowledgeable in Linux server applications
+    Student web developer, knowledgeable in Linux server applications.
 
 education:
   title: Education
@@ -68,28 +68,39 @@ projects:
   assignments:
     - title: Train Kiosk
       link: "https://github.com/a-nguyen-kangan/DTP-Train-Kiosk-FE"
-      tagline: "A responsive website template designed to list trains departures from a selected station."
-
-    - title: Homelab
       tagline: 
-        "I have turned two old laptops into a home lab running various services and technologies including:"
-      details: |
-        - Ubuntu 20.04 Server
-        - Docker
-        - Apache Web Server
-        - Nextcloud
-        - PiHole
-        - Unbound Recursive DNS
-        - PiVPN
-        - Netdata
-        - Pterodactyl (Minecraft Server)
-        - Portainer
+        <p>A responsive website template designed to list train departures from a selected station, built in Angular.<p/>
+
+    - title: Home Lab
+      tagline:
+        <p>I have turned two old laptops into a home lab running various services and technologies including:<p/>
+        <ul>
+          <li>Ubuntu 20.04 Server</li>
+          <li>Docker</li>
+          <li>Apache Web Server</li>
+          <li>Nextcloud</li>
+          <li>PiHole</li>
+          <li>Unbound Recursive DNS</li>
+          <li>PiVPN</li>
+          <li>Netdata</li>
+          <li>Pterodactyl (Minecraft Server)</li>
+          <li>Portainer</li>
+        </ul>
+        <p>This has enabled me to become proficient in bash CLI, configuring and running Docker containers and hosting websites through Apache.<p/>
     
     - title: Cycling
-      details: |
-        - Road Cycling and Track Cycling
-        - Training 10hrs a week and regularly competing in various races
-        - 
+      tagline:
+        <p>I compete in road and track cycling, starting when I was 15.<p/>
+        <p>I train approximately 10 hours a week and race a variety of events including:</p>
+        <ul>
+          <li>Stage and one day road races</li>
+          <li>Time trials</li>
+          <li>Criteriums (30 to 60 minute road races around a short circuit)</li>
+          <li>Track events</li>
+        </ul>
+        <p>I also enjoy keeping up to date with the latest research in sports science and applying it in my training, 
+        as well as the latest trends in equipment technology.</p>
+        <p>In addition, I find satisfaction in optimising the efficiency of my equipment, improving my aerodynamics and the mechanical efficiency of my bike.<p/>
 
 skills:
   title: Skills &amp; Proficiency
@@ -102,7 +113,10 @@ skills:
       level: 80%
 
     - name: Angular
-      level: 60%
+      level: 65%
+
+    - name: Svelte
+      level: 5%
 
     - name: HTML
       level: 95%
@@ -111,7 +125,7 @@ skills:
       level: 65%
 
     - name: Git
-      level: 95%
+      level: 90%
 
     - name: MSSQL
       level: 75%
