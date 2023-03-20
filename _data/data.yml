@@ -71,6 +71,11 @@ projects:
       tagline: 
         <p>A responsive website template designed to list train departures from a selected station, built in Angular.<p/>
 
+    - title: Weather App
+      link: "https://github.com/Prosthius/weather-app"
+      tagline: 
+        <p>A responsive website to display the weather at any location in Australia, built in Svelte.<p/>
+
     - title: Home Lab
       tagline:
         <p>I have turned two old laptops into a home lab running various services and technologies including:<p/>
@@ -116,7 +121,7 @@ skills:
       level: 65%
 
     - name: Svelte
-      level: 5%
+      level: 30%
 
     - name: HTML
       level: 95%
