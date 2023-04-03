@@ -4,7 +4,7 @@
 
 sidebar:
   about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
   name: Callum Hopkins
@@ -12,6 +12,7 @@ sidebar:
   avatar: picture.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
+  printable: resume.pdf
   website: callumhopkins.au
   email: mail@callumhopkins.au
   timezone: AEDT / Australian Eastern Daylight Savings
@@ -59,9 +60,8 @@ experiences:
       time: 2016 - 2021
       company: Cycle Science Mitcham
       details: |
-        - Built and repaired bikes
-        - Sold bikes and accessories
-        - Assisted customers
+        - Accurately repaired and assembled bicycles of various models and sizes, from kids bikes to high end, performance bikes.
+        - Provided friendly and knowledgeable customer service, recommending suitable products and accessories based on customer needs and budget.
 
 projects:
   title: Projects/Hobbies
@@ -69,43 +69,33 @@ projects:
     - title: Train Kiosk
       link: "https://github.com/a-nguyen-kangan/DTP-Train-Kiosk-FE"
       tagline: 
-        <p>A responsive website template designed to list train departures from a selected station, built in Angular.<p/>
+        <ul>
+          <li>Designed and developed a responsive website template using Angular to list train departures from a selected station.</li>
+          <li>Collaborated with a team of four using the Agile methodology, managing tasks through Jira and conducting daily stand-ups.</li>
+        <ul>
 
     - title: Weather App
       link: "https://github.com/Prosthius/weather-app"
       tagline: 
-        <p>A responsive website to display the weather at any location in Australia, built in Svelte.<p/>
+        <ul>
+          <li>Created and deployed a responsive website using Svelte that displays the current and forecast weather at any location in Australia.</li>
+          <li>Used Cloudflare workers to proxy API calls to Open Weather Map, ensuring security and maintaining performance.</li>
+        <ul>
 
     - title: Home Lab
       tagline:
-        <p>I have turned two old laptops into a home lab running various services and technologies including:<p/>
         <ul>
-          <li>Ubuntu 20.04 Server</li>
-          <li>Docker</li>
-          <li>Apache Web Server</li>
-          <li>Nextcloud</li>
-          <li>PiHole</li>
-          <li>Unbound Recursive DNS</li>
-          <li>PiVPN</li>
-          <li>Netdata</li>
-          <li>Pterodactyl (Minecraft Server)</li>
-          <li>Portainer</li>
+          <li>Set up and maintain a home lab running various services and technologies including Ubuntu, Docker and Apache, running on two old laptops.</li>
+          <li>Developed proficiency in bash CLI, configuring and running Docker containers and hosting websites through Apache.</li>
         </ul>
-        <p>This has enabled me to become proficient in bash CLI, configuring and running Docker containers and hosting websites through Apache.<p/>
     
     - title: Cycling
       tagline:
-        <p>I compete in road and track cycling, starting when I was 15.<p/>
-        <p>I train approximately 10 hours a week and race a variety of events including:</p>
         <ul>
-          <li>Stage and one day road races</li>
-          <li>Time trials</li>
-          <li>Criteriums (30 to 60 minute road races around a short circuit)</li>
-          <li>Track events</li>
+          <li>Competing in road and track cycling since 15 years of age.</li>
+          <li>Train approximately 10 hours a week and race regularly in various events.</li>
+          <li>Enjoy keeping up to date with the latest sport science to continually improve my training and recovery.</li>
         </ul>
-        <p>I also enjoy keeping up to date with the latest research in sports science and applying it in my training, 
-        as well as the latest trends in equipment technology.</p>
-        <p>In addition, I find satisfaction in optimising the efficiency of my equipment, improving my aerodynamics and the mechanical efficiency of my bike.<p/>
 
 skills:
   title: Skills &amp; Proficiency
