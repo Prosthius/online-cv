@@ -95,7 +95,7 @@ projects:
       link: "https://github.com/Prosthius/2000char"
       tagline: 
         <ul>
-          <li>Created a simple console application in C# to break large strings of text into 2000 character chunks for easier input into Chat GPT.</li>
+          <li>Created a simple console application in C# to break large strings of text into 2000 character chunks for easier input into Chat GPT, as it has a limit of 2000 characters per message.</li>
           <li>For example, it can be used to create a Typescript interface from a large JSON Object using Chat GPT.</li>
         <ul>
 
