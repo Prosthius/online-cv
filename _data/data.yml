@@ -82,6 +82,23 @@ projects:
           <li>Used Cloudflare workers to proxy API calls to Open Weather Map, ensuring security and maintaining performance.</li>
         <ul>
 
+    - title: Movie/TV Database
+      link: "https://github.com/Prosthius/TV-and-Movie-DB"
+      tagline: 
+        <ul>
+          <li>Creating a website, using Svelte, to search and obtain information on movies and shows.</li>
+          <li>I intend to add functionality to allow a user to login to an individual account and create custom lists and reviews.</li>
+          <li>Used Cloudflare workers to proxy API calls.</li>
+        <ul>
+
+    - title: Chat GPT 2000 Characters
+      link: "https://github.com/Prosthius/2000char"
+      tagline: 
+        <ul>
+          <li>Created a simple console application in C# to break large strings of text into 2000 character chunks for easier input into Chat GPT.</li>
+          <li>For example, it can be used to create a Typescript interface from a large JSON Object using Chat GPT.</li>
+        <ul>
+
     - title: Home Lab
       tagline:
         <ul>
@@ -111,7 +128,7 @@ skills:
       level: 65%
 
     - name: Svelte
-      level: 30%
+      level: 50%
 
     - name: HTML
       level: 95%
