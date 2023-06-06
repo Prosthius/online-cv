@@ -12,7 +12,7 @@ sidebar:
   avatar: picture.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  printable: resume.pdf
+  printable: callum-hopkins-resume.pdf
   website: callumhopkins.au
   email: mail@callumhopkins.au
   timezone: AEDT / Australian Eastern Daylight Savings
@@ -91,12 +91,12 @@ projects:
           <li>Used Cloudflare workers to proxy API calls.</li>
         <ul>
 
-    - title: Chat GPT 2000 Characters
-      link: "https://github.com/Prosthius/2000char"
+    - title: Text Cleanup Tool
+      link: "https://github.com/Prosthius/Text-Cleanup"
       tagline: 
         <ul>
-          <li>Created a simple console application in C# to break large strings of text into 2000 character chunks for easier input into Chat GPT, as it has a limit of 2000 characters per message.</li>
-          <li>For example, it can be used to break up a large JSON Object to then create a Typescript interface using Chat GPT.</li>
+          <li>Created a simply console application in C# to modify and split a large block of text into several smaller chunks.</li>
+          <li>For example, it can be used to break up a large JSON Object to input into an LLM to create a Typescript interface.</li>
         <ul>
 
     - title: Home Lab
